@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[One Determined Girl | Lifestyle Redesign & Coaching]]></title>
+        <description><![CDATA[One Determined Girl | Lifestyle Redesign & Coaching]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 03:58:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is just a test to see how this works.</p>]]></description>
+            <link>undefinedthis-is-just-a-test-to-see-how-this-works/index.html</link>
+            <guid isPermaLink="false">ec4a1686-1c00-4576-a795-4b5a6f55a7a9</guid>
+            <pubDate>Sun, 01 May 2016 03:58:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
