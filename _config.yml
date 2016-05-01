@@ -1,7 +1,7 @@
 name: 'One Determined Girl '
 favicon: null
 layout_spectrum: 0.61252
-typography_spectrum: 0.09634
+typography_spectrum: 0.16667
 title: 'One Determined Girl | Lifestyle Redesign & Coaching'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#02489d'
+    - '#000000'
+    - '#fefefe'
+    - '#6f716e'
+    - '#85c5f3'
   brandStrength: 0.6964739870745689
   lightness: 0.49415382207371294
   saturation: 0.5470877457410097
