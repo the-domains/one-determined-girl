@@ -1,20 +1,4 @@
-name: 'One Determined Girl '
-favicon: null
-layout_spectrum: 0.327
 typography_spectrum: 0.10338
-title: 'One Determined Girl | Lifestyle Redesign & Coaching'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#02489d'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8125
   saturation: 0.0625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.327
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'One Determined Girl '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: One Determined Girl | Lifestyle Redesign & Coaching
+description: Specializing in second chances and unlimited do-overs!
 purpose: []
